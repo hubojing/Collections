@@ -6,4 +6,4 @@
 - W3Cschool  http://www.w3school.com.cn/
 
 ## Interesting projects | 的项目们
--awesome  https://github.com/sindresorhus/awesome
+- awesome  https://github.com/sindresorhus/awesome
