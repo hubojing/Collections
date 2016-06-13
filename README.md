@@ -1,7 +1,9 @@
 # collections
 ## Project showcases | Github项目查询
-> https://github.com/explore
+- https://github.com/explore
 
-## Interesting projects | 一颗赛艇的项目们
-> awesome
-- https://github.com/sindresorhus/awesome
+## 教程类网站
+- W3Cschool  http://www.w3school.com.cn/
+
+## Interesting projects | 的项目们
+-awesome  https://github.com/sindresorhus/awesome
