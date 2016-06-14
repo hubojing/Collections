@@ -5,7 +5,7 @@
 
 ## Tutorial web | 教程类网站
 - W3Cschool  http://www.w3school.com.cn/
--廖雪峰的官方网站 http://www.liaoxuefeng.com/
+- 廖雪峰的官方网站 http://www.liaoxuefeng.com/
 
 ## Interesting projects | 因缺思厅的项目们
 - awesome  https://github.com/sindresorhus/awesome
