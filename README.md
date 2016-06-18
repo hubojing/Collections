@@ -8,7 +8,7 @@
 - 廖雪峰的官方网站 http://www.liaoxuefeng.com/
 
 ## Comperhensive website | 综合网站
--C语言网  http://www.clang.cc/
+- C语言网  http://www.clang.cc/
 
 ## Interesting projects | 因缺思厅的项目们
 - awesome  https://github.com/sindresorhus/awesome
