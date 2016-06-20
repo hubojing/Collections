@@ -11,6 +11,7 @@
 - 猴子都能懂的GIT入门 http://backlogtool.com/git-guide/cn/
 - git简明指南 http://rogerdudler.github.io/git-guide/index.zh.html/
 - Github漫游指南 http://github.phodal.com/
+- 学习CSS布局 http://zh.learnlayout.com/
 
 ## Comperhensive website | 综合网站
 - C语言网  http://www.clang.cc/
