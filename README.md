@@ -7,6 +7,10 @@
 ## Tutorial website | 教程类网站
 - W3Cschool  http://www.w3school.com.cn/
 - 廖雪峰的官方网站 http://www.liaoxuefeng.com/
+- 鸟哥的Linux私房菜 http://vbird.dic.ksu.edu.tw/
+- 猴子都能懂的GIT入门 http://backlogtool.com/git-guide/cn/
+- git简明指南 http://rogerdudler.github.io/git-guide/index.zh.html/
+- Github漫游指南 http://github.phodal.com/
 
 ## Comperhensive website | 综合网站
 - C语言网  http://www.clang.cc/
