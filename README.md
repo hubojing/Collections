@@ -2,8 +2,9 @@
 菜鸟的必备单……亲测适合入门。（唉……一声叹息，小白要加速成长啊！）
 
 ## 排行 | Rank
-- Github项目查询 https://github.com/explore/
+- Project showcases https://github.com/explore/
 - 开源静态网站生成器排行 http://www.staticgen.com/
+- Explore GitBook https://www.gitbook.com/explore/
 
 ## Tutorial website | 教程类网站
 - W3Cschool  http://www.w3school.com.cn/
