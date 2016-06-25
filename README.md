@@ -2,7 +2,7 @@
 ## 前言
 菜鸟的必备单！亲测适合入门。（小白快加速成长！）
 
-## 排行 | Rank
+## Rank | 排行
 - Project showcases https://github.com/explore/
 - 开源静态网站生成器排行 http://www.staticgen.com/
 - Explore GitBook https://www.gitbook.com/explore/
