@@ -1,6 +1,6 @@
 # 收藏患者
 ## 前言
-菜鸟的必备单！亲测适合入门。（小白要加速成长啊！）
+菜鸟的必备单！亲测适合入门。（小白快加速成长！）
 
 ## 排行 | Rank
 - Project showcases https://github.com/explore/
@@ -20,7 +20,7 @@
 ## Comperhensive website | 综合网站
 - C语言网  http://www.clang.cc/
 
-## Interesting projects | 因缺思厅的项目们
+## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
 
 ## Tools | 工具
