@@ -20,6 +20,11 @@
 ## Comperhensive website | 综合网站
 - C语言网  http://www.clang.cc/
 - IT之家 http://www.ithome.com/
+- segmentfault https://segmentfault.com/
+- CSDN http://www.csdn.net/
+- 云汉电子社区 http://bbs.ickey.cn/forum/
+- 通信人家园 http://bbs.c114.net/
+- HEXO https://hexo.io/
 
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
@@ -29,3 +34,4 @@
 - 字体转换器 http://www.akuziti.com/
 - POP 在线编程平台 http://www.poprogramming.com/
 - 极简图床 http://yotuku.cn/
+- Cmd Markdown 编辑阅读器 https://www.zybuluo.com/mdeditor/
