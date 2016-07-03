@@ -26,6 +26,7 @@
 - 云汉电子社区  http://bbs.ickey.cn/forum/
 - 通信人家园  http://bbs.c114.net/
 - HEXO  https://hexo.io/
+- 知乎 https://www.zhihu.com/
 
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
