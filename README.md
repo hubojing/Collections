@@ -28,6 +28,7 @@
 - HEXO  https://hexo.io/
 - 知乎  https://www.zhihu.com/
 - 网易公开课  http://open.163.com/
+- MATLAB中文论坛  http://www.ilovematlab.cn/
 
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
