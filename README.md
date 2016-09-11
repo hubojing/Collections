@@ -17,6 +17,7 @@
 - Github漫游指南  http://github.phodal.com/
 - 学习CSS布局   http://zh.learnlayout.com/
 - 菜鸟教程  http://www.runoob.com/
+- 极客学院Wiki  http://wiki.jikexueyuan.com/
 
 ## Comperhensive website | 综合网站
 - C语言网  http://www.clang.cc/
