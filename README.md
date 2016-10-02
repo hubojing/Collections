@@ -38,6 +38,7 @@
 
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
+-awesome-github（中文） https://github.com/AntBranch/awesome-github/
 - FoolGo  https://github.com/chncwang/FoolGo/
 
 ## Tools | 工具
