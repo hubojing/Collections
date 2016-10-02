@@ -7,6 +7,7 @@
 - 开源静态网站生成器排行  http://www.staticgen.com/
 - Explore GitBook   https://www.gitbook.com/explore/
 - hexo主题  https://github.com/hexojs/hexo/wiki/Themes/
+- github中国程序员排行 http://githubrank.com/
 
 ## Tutorial website | 教程类网站
 - W3Cschool  http://www.w3school.com.cn/
