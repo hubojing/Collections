@@ -19,6 +19,8 @@
 - 菜鸟教程  http://www.runoob.com/
 - 极客学院Wiki  http://wiki.jikexueyuan.com/
 - CSDN知识库 http://lib.csdn.net/
+- Fenby http://www.fenby.com/
+- Codecademy  https://www.codecademy.com/
 
 ## Comperhensive website | 综合网站
 - C语言网  http://www.clang.cc/
@@ -31,6 +33,7 @@
 - 知乎  https://www.zhihu.com/
 - 网易公开课  http://open.163.com/
 - MATLAB中文论坛  http://www.ilovematlab.cn/
+- 51CTO http://www.51cto.com/
 
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
