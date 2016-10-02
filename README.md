@@ -34,9 +34,11 @@
 - 网易公开课  http://open.163.com/
 - MATLAB中文论坛  http://www.ilovematlab.cn/
 - 51CTO http://www.51cto.com/
+- 开源中国社区  https://www.oschina.net/
 
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
+- FoolGo  https://github.com/chncwang/FoolGo/
 
 ## Tools | 工具
 - 调色板  http://www.lvyestudy.com/tools/color_picker.aspx/
