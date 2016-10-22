@@ -1,6 +1,7 @@
 # 收藏患者
 ## 前言
 菜鸟的必备单！亲测适合入门。（小白快加速成长！）
+不定期更新，不仅会增加，也会删除后期体验不好的网址。欢迎提issue健全！
 
 ## Rank | 排行
 - Project showcases   https://github.com/explore/
