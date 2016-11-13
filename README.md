@@ -1,4 +1,4 @@
-# 收藏患者
+# 收藏患者（IT向）
 ## 前言
 
 菜鸟的必备单！亲测适合入门。（小白快加速成长！）  
@@ -59,3 +59,4 @@
 ## Articles | 论文
 - 学术搜索  http://scholar.chongbuluo.com/
 - CNKI翻译助手  http://dict.cnki.net/
+- 中国科技论文在线  http://www.paper.edu.cn/
