@@ -58,3 +58,4 @@
 
 ## Articles | 论文
 - 学术搜索  http://scholar.chongbuluo.com/
+- CNKI翻译助手  http://dict.cnki.net/
