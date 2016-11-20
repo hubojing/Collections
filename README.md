@@ -26,12 +26,16 @@
 - Codecademy  https://www.codecademy.com/
 - 实验楼 https://www.shiyanlou.com/
 - 慕课网 http://www.imooc.com/course/list
+- JavaScript|MDN  https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
+- ECMAScript入门  http://es6.ruanyifeng.com/
+- codewars  http://www.codewars.com/
 
 ## Comperhensive website | 综合网站
 - C语言网  http://www.clang.cc/
 - IT之家  http://www.ithome.com/
 - segmentfault  https://segmentfault.com/
 - CSDN  http://www.csdn.net/
+- 博客园  http://www.cnblogs.com/
 - 云汉电子社区  http://bbs.ickey.cn/forum/
 - 通信人家园  http://bbs.c114.net/
 - HEXO  https://hexo.io/
@@ -41,6 +45,9 @@
 - 51CTO http://www.51cto.com/
 - 开源中国社区  https://www.oschina.net/
 - 编程中国  http://www.bccn.net/
+- CNode https://cnodejs.org/
+- 掘金  http://gold.xitu.io/
+
 
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
