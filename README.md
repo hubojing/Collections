@@ -48,6 +48,9 @@
 - CNode https://cnodejs.org/
 - 掘金  http://gold.xitu.io/
 
+## E-Books | 电子书
+- 图灵社区  http://www.ituring.com.cn/book/ebook?sort=free
+- 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8
 
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
