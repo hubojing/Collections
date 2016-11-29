@@ -65,6 +65,7 @@
 - Cmd Markdown 编辑阅读器   https://www.zybuluo.com/mdeditor/
 - Browsersync http://www.browsersync.cn/
 - 在线集成编程工具  http://anycodes.cn/zh/
+- 在线秒表  http://www.rubik.com.cn/stopwatch.htm
 
 ## Articles | 论文
 - 学术搜索  http://scholar.chongbuluo.com/
