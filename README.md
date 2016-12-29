@@ -8,7 +8,7 @@
 - Project showcases   https://github.com/explore/
 - 开源静态网站生成器排行  http://www.staticgen.com/
 - Explore GitBook   https://www.gitbook.com/explore/
-- hexo主题  https://github.com/hexojs/hexo/wiki/Themes/
+- hexo主题  https://github.com/hexojs/hexo/wiki/Themes/   https://hexo.io/themes/
 - github中国程序员排行 http://githubrank.com/
 
 ## Tutorial website | 教程类网站
