@@ -66,8 +66,7 @@
 - Browsersync http://www.browsersync.cn/
 - 在线集成编程工具  http://anycodes.cn/zh/
 - 在线秒表  http://miaobiao.51240.com/
-- 蓝灯  https://github.com/getlantern/forum
-
+- 蓝灯  https://github.com/getlantern/forum/
 
 ## Articles | 论文
 - 学术搜索  http://scholar.chongbuluo.com/
