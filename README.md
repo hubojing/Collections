@@ -75,5 +75,9 @@
 - 中国科技论文在线  http://www.paper.edu.cn/
 - 谷歌学术  http://dir.scmor.com/google/
 
+## Java
+- Java API文档  http://www.oracle.com/technetwork/java/javase/overview/index.html
+- （API在线查询  http://docs.oracle.com/javase/8/docs/api/）
+
 ## Install equipment | 装机系列
 - MSDN,我告诉你 http://msdn.itellyou.cn/
