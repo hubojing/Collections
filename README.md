@@ -52,6 +52,10 @@
 - 图灵社区  http://www.ituring.com.cn/book/ebook?sort=free
 - 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8
 
+## Java
+- Java API文档  http://www.oracle.com/technetwork/java/javase/overview/index.html
+- （API在线查询  http://docs.oracle.com/javase/8/docs/api/ ）
+
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
 - awesome-github（中文） https://github.com/AntBranch/awesome-github/
@@ -74,10 +78,6 @@
 - CNKI翻译助手  http://dict.cnki.net/
 - 中国科技论文在线  http://www.paper.edu.cn/
 - 谷歌学术  http://dir.scmor.com/google/
-
-## Java
-- Java API文档  http://www.oracle.com/technetwork/java/javase/overview/index.html
-- （API在线查询  http://docs.oracle.com/javase/8/docs/api/ ）
 
 ## Install equipment | 装机系列
 - MSDN,我告诉你 http://msdn.itellyou.cn/
