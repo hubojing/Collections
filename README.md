@@ -52,9 +52,10 @@
 - 图灵社区  http://www.ituring.com.cn/book/ebook?sort=free
 - 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8
 
-## Java
+## Java for Android
 - Java API文档  http://www.oracle.com/technetwork/java/javase/overview/index.html
 - （API在线查询  http://docs.oracle.com/javase/8/docs/api/ ）
+- Android类和接口官方文档 https://developer.android.com/reference/packages.html
 
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
