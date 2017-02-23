@@ -73,6 +73,7 @@
 - 在线秒表  http://miaobiao.51240.com/
 - 蓝灯  https://github.com/getlantern/forum/
 - 赛风  http://s3.amazonaws.com/fddc-r090-rtqi/zh.html/
+- 在线工具  http://tool.oschina.net/
 
 ## 英翻 | English Translation
 - 伯乐在线  http://fanyi.jobbole.com/
