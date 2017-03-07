@@ -56,6 +56,7 @@
 - Java API文档  http://www.oracle.com/technetwork/java/javase/overview/index.html
 - （API在线查询  http://docs.oracle.com/javase/8/docs/api/ ）
 - Android类和接口官方文档 https://developer.android.com/reference/packages.html
+- Android官方培训课程中文版(v0.9.7) http://hukai.me/android-training-course-in-chinese/index.html
 
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
