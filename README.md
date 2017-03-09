@@ -76,7 +76,7 @@
 - 赛风  http://s3.amazonaws.com/fddc-r090-rtqi/zh.html/
 - 在线工具  http://tool.oschina.net/
 
-## 英翻 | English Translation
+## English Translation | 英翻
 - 伯乐在线  http://fanyi.jobbole.com/
 - 译言网 http://g.yeeyan.org/
   
@@ -89,6 +89,6 @@
 ## Install equipment | 装机系列
 - MSDN,我告诉你 http://msdn.itellyou.cn/
 
-## IT求职
+## IT jobs intension | IT求职
 - 赛码网 http://www.acmcoder.com/
 - 牛客网 https://www.nowcoder.com/
