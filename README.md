@@ -92,3 +92,6 @@
 ## IT jobs intension | IT求职
 - 赛码网 http://www.acmcoder.com/
 - 牛客网 https://www.nowcoder.com/
+
+## Blogs | 牛人博客
+- 罗升阳 http://0xcc0xcd.com/p/index.php
