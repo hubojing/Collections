@@ -47,6 +47,7 @@
 - 编程中国  http://www.bccn.net/
 - CNode https://cnodejs.org/
 - 掘金  http://gold.xitu.io/
+- Dzone https://dzone.com/
 
 ## E-Books | 电子书
 - 图灵社区  http://www.ituring.com.cn/book/ebook?sort=free
@@ -57,6 +58,7 @@
 - （API在线查询  http://docs.oracle.com/javase/8/docs/api/ ）
 - Android类和接口官方文档 https://developer.android.com/reference/packages.html
 - Android官方培训课程中文版(v0.9.7) http://hukai.me/android-training-course-in-chinese/index.html
+- JavaWorld http://www.javaworld.com/
 
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
