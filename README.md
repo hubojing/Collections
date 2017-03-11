@@ -89,9 +89,12 @@
 ## Install equipment | 装机系列
 - MSDN,我告诉你 http://msdn.itellyou.cn/
 
-## IT jobs intension | IT求职
+## Homework | 刷题
 - 赛码网 http://www.acmcoder.com/
 - 牛客网 https://www.nowcoder.com/
+- 北大poj http://poj.org/
+- hdoj http://acm.hdu.edu.cn/
+- LeetCode  https://leetcode.com/
 
 ## Blogs | 牛人博客
 - 罗升阳 http://0xcc0xcd.com/p/index.php
