@@ -79,8 +79,8 @@
 - 赛风  http://s3.amazonaws.com/fddc-r090-rtqi/zh.html/
 - 在线工具  http://tool.oschina.net/
 
-## English Translation | 英翻
-- 伯乐在线  http://fanyi.jobbole.com/
+## English Translation | 英译
+- 伯乐在线  http://fanyi.jobbole.com/
 - 译言网 http://g.yeeyan.org/
   
 ## Articles | 论文
