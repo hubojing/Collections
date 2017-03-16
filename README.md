@@ -87,7 +87,8 @@
 - 学术搜索  http://scholar.chongbuluo.com/
 - CNKI翻译助手  http://dict.cnki.net/
 - 中国科技论文在线  http://www.paper.edu.cn/
-- 谷歌学术  http://dir.scmor.com/google/
+- 谷歌学术  http://dir.scmor.com/google/
+- oalib http://www.oalib.com/
 
 ## Install equipment | 装机系列
 - MSDN,我告诉你 http://msdn.itellyou.cn/
