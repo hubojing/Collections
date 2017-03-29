@@ -100,5 +100,5 @@
 - hdoj http://acm.hdu.edu.cn/
 - LeetCode  https://leetcode.com/
 
-## Blogs | 牛人博客
+## Blogs | 大牛们
 - 罗升阳 http://0xcc0xcd.com/p/index.php
