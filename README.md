@@ -27,7 +27,8 @@
 - 慕课网 http://www.imooc.com/course/list
 - JavaScript|MDN  https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 - ECMAScript入门  http://es6.ruanyifeng.com/
-- codewars  http://www.codewars.com/
+- codewars  http://www.codewars.com/
+- 微软培训 https://mva.microsoft.com/
 
 ## Comperhensive website | 综合网站
 - C语言网  http://www.clang.cc/
