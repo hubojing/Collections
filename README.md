@@ -1,6 +1,7 @@
-# 收藏家（IT向）
+# 收藏家&&资源杂货铺（IT向）
 ## 前言
-自用单。 
+资源杂货铺是我电脑本地占存储又用的不多又不愿彻底铲除的学习资料。
+以下是收藏自用单。 
 不定期更新，不仅会增加，也会删除后期体验不好的网址。欢迎提issue健全！
 
 ## Rank | 排行
@@ -60,6 +61,9 @@
 - Android官方培训课程中文版(v0.9.7) http://hukai.me/android-training-course-in-chinese/index.html
 - JavaWorld http://www.javaworld.com/
 - eoe论坛 http://www.eoeandroid.com/forum.php
+
+# C++
+- Visual Studio入门 https://docs.microsoft.com/zh-CN/visualstudio/ide/get-started-with-visual-studio
 
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
