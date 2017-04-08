@@ -107,3 +107,6 @@
 
 ## Blogs | 大牛们
 - 罗升阳 http://0xcc0xcd.com/p/index.php
+
+## 事半功倍的小技巧 | some cute skills
+- 让win10愉快地运行vc++6.0 https://jingyan.baidu.com/article/851fbc37a99e043e1f15aba7.html
