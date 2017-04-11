@@ -98,7 +98,7 @@
 - MSDN,我告诉你 http://msdn.itellyou.cn/
 - 中国科学技术大学开源软件镜像 http://mirrors.ustc.edu.cn/
 
-## Homework | 刷题
+## Practice | 刷题
 - 赛码网 http://www.acmcoder.com/
 - 牛客网 https://www.nowcoder.com/
 - 北大poj http://poj.org/
