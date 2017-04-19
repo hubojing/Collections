@@ -2,7 +2,7 @@
 ## 前言
 资源杂货铺是我电脑本地占存储又用的不多又不愿彻底铲除的学习资料。
 以下是收藏自用单。 
-不定期更新，不仅会增加，也会删除后期体验不好的网址。欢迎提issue健全！
+不定期更新。欢迎提issue健全！
 
 ## Rank | 排行
 - Project showcases   https://github.com/explore/
