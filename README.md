@@ -66,6 +66,9 @@
 # C++
 - Visual Studio入门 https://docs.microsoft.com/zh-CN/visualstudio/ide/get-started-with-visual-studio
 
+# 爬虫
+- jsoup开发指南 http://www.open-open.com/jsoup/
+
 ## Interesting projects | 有趣的项目
 - awesome  https://github.com/sindresorhus/awesome/
 - awesome-github（中文） https://github.com/AntBranch/awesome-github/
