@@ -63,6 +63,9 @@
 - JavaWorld http://www.javaworld.com/
 - eoe论坛 http://www.eoeandroid.com/forum.php
 
+# Kotlin
+- Kotlin 资源大全 https://zhuanlan.zhihu.com/p/27000007/
+
 # 数据结构
 - VisuAlgo https://visualgo.net/
 
