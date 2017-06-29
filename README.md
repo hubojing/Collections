@@ -117,6 +117,7 @@
 - LeetCode  https://leetcode.com/
 
 ## Blogs | 大牛们
+- 孟岩  http://blog.csdn.net/myan/
 - 蒋晟 http://blog.csdn.net/jiangsheng/
 - 罗升阳 http://0xcc0xcd.com/p/index.php/
 
