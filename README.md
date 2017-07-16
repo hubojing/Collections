@@ -70,6 +70,7 @@
 
 # C++
 - Visual Studio入门 https://docs.microsoft.com/zh-CN/visualstudio/ide/get-started-with-visual-studio
+- MSDN https://msdn.microsoft.com/zh-cn/library/60k1461a(v=vs.120).aspx
 
 # OpenGL
 - OpenGL https://www.opengl.org/
