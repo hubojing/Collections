@@ -11,6 +11,7 @@
 - github中国程序员排行 http://githubrank.com/
 
 ## Tutorial website | 教程类网站
+- MSDN  https://msdn.microsoft.com/en-us/
 - W3Cschool  http://www.w3school.com.cn/
 - 廖雪峰的官方网站  http://www.liaoxuefeng.com/
 - 鸟哥的Linux私房菜   http://vbird.dic.ksu.edu.tw/
