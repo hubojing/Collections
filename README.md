@@ -13,6 +13,9 @@
 ## Tutorial website | 教程类网站
 - MSDN  https://msdn.microsoft.com/en-us/
 - W3Cschool  http://www.w3school.com.cn/
+- 实验楼 https://www.shiyanlou.com/
+- 慕课网 http://www.imooc.com/course/list/
+- codewars  http://www.codewars.com/
 - 廖雪峰的官方网站  http://www.liaoxuefeng.com/
 - 鸟哥的Linux私房菜   http://vbird.dic.ksu.edu.tw/
 - 猴子都能懂的GIT入门   http://backlogtool.com/git-guide/cn/
@@ -24,11 +27,8 @@
 - CSDN知识库 http://lib.csdn.net/
 - Fenby http://www.fenby.com/
 - Codecademy  https://www.codecademy.com/
-- 实验楼 https://www.shiyanlou.com/
-- 慕课网 http://www.imooc.com/course/list
 - JavaScript|MDN  https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 - ECMAScript入门  http://es6.ruanyifeng.com/
-- codewars  http://www.codewars.com/
 - 微软培训 https://mva.microsoft.com/
 
 ## Comperhensive website | 综合网站
