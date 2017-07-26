@@ -12,7 +12,7 @@
 
 ## Tutorial website | 教程类网站
 - MSDN  https://msdn.microsoft.com/en-us/
-- W3Cschool  http://www.w3school.com.cn/
+
 - 实验楼 https://www.shiyanlou.com/
 - 慕课网 http://www.imooc.com/course/list/
 - codewars  http://www.codewars.com/
@@ -21,13 +21,13 @@
 - 猴子都能懂的GIT入门   http://backlogtool.com/git-guide/cn/
 - git简明指南   http://rogerdudler.github.io/git-guide/index.zh.html/
 - Github漫游指南  http://github.phodal.com/
-- 学习CSS布局   http://zh.learnlayout.com/
+
 - 菜鸟教程  http://www.runoob.com/
 - 极客学院Wiki  http://wiki.jikexueyuan.com/
 - CSDN知识库 http://lib.csdn.net/
 - Fenby http://www.fenby.com/
 - Codecademy  https://www.codecademy.com/
-- JavaScript|MDN  https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
+
 - ECMAScript入门  http://es6.ruanyifeng.com/
 - 微软培训 https://mva.microsoft.com/
 
@@ -53,6 +53,11 @@
 ## E-Books | 电子书
 - 图灵社区  http://www.ituring.com.cn/book/ebook?sort=free
 - 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8
+
+## 前端
+- 学习CSS布局   http://zh.learnlayout.com/
+- JavaScript|MDN  https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
+- W3Cschool  http://www.w3school.com.cn/
 
 ## Java for Android
 - Java官方文档  http://docs.oracle.com/javase/8/docs/
