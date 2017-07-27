@@ -3,6 +3,14 @@
 自用单。 
 欢迎提issue健全！
 
+## 使用最多
+- 知乎  https://www.zhihu.com/
+- MSDN  https://msdn.microsoft.com/en-us/
+- 慕课网 http://www.imooc.com/course/list/
+- 实验楼 https://www.shiyanlou.com/
+- CSDN  http://www.csdn.net/
+
+
 ## Rank | 排行
 - Project showcases   https://github.com/explore/
 - 开源静态网站生成器排行  http://www.staticgen.com/
@@ -12,33 +20,22 @@
 
 ## Tutorial website | 教程类网站
 - MSDN  https://msdn.microsoft.com/en-us/
-
 - 实验楼 https://www.shiyanlou.com/
 - 慕课网 http://www.imooc.com/course/list/
 - codewars  http://www.codewars.com/
 - 廖雪峰的官方网站  http://www.liaoxuefeng.com/
 - 鸟哥的Linux私房菜   http://vbird.dic.ksu.edu.tw/
-- 猴子都能懂的GIT入门   http://backlogtool.com/git-guide/cn/
-- git简明指南   http://rogerdudler.github.io/git-guide/index.zh.html/
-- Github漫游指南  http://github.phodal.com/
-
 - 菜鸟教程  http://www.runoob.com/
 - 极客学院Wiki  http://wiki.jikexueyuan.com/
 - CSDN知识库 http://lib.csdn.net/
 - Fenby http://www.fenby.com/
 - Codecademy  https://www.codecademy.com/
-
 - ECMAScript入门  http://es6.ruanyifeng.com/
 - 微软培训 https://mva.microsoft.com/
 
 ## Comperhensive website | 综合网站
-- C语言网  http://www.clang.cc/
-- IT之家  http://www.ithome.com/
-- segmentfault  https://segmentfault.com/
 - CSDN  http://www.csdn.net/
 - 博客园  http://www.cnblogs.com/
-- 云汉电子社区  http://bbs.ickey.cn/forum/
-- 通信人家园  http://bbs.c114.net/
 - HEXO  https://hexo.io/
 - 知乎  https://www.zhihu.com/
 - 网易公开课  http://open.163.com/
@@ -50,6 +47,14 @@
 - 掘金  http://gold.xitu.io/
 - Dzone https://dzone.com/
 
+## questions
+- Stack Overflow  https://stackoverflow.com/
+- segmentfault  https://segmentfault.com/
+
+## 通信
+- 通信人家园  http://bbs.c114.net/
+- 云汉电子社区  http://bbs.ickey.cn/forum/
+
 ## E-Books | 电子书
 - 图灵社区  http://www.ituring.com.cn/book/ebook?sort=free
 - 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8
@@ -59,6 +64,12 @@
 - JavaScript|MDN  https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 - W3Cschool  http://www.w3school.com.cn/
 
+## git
+- 猴子都能懂的GIT入门   http://backlogtool.com/git-guide/cn/
+- git简明指南   http://rogerdudler.github.io/git-guide/index.zh.html/
+- Github漫游指南  http://github.phodal.com/
+
+
 ## Java for Android
 - Java官方文档  http://docs.oracle.com/javase/8/docs/
 - Java API文档  http://www.oracle.com/technetwork/java/javase/overview/index.html
@@ -67,9 +78,6 @@
 - Android官方培训课程中文版(v0.9.7) http://hukai.me/android-training-course-in-chinese/index.html
 - JavaWorld http://www.javaworld.com/
 - eoe论坛 http://www.eoeandroid.com/forum.php
-
-# Kotlin
-- Kotlin 资源大全 https://zhuanlan.zhihu.com/p/27000007/
 
 # 数据结构
 - VisuAlgo https://visualgo.net/
@@ -85,10 +93,10 @@
 # 爬虫
 - jsoup开发指南 http://www.open-open.com/jsoup/
 
-## Interesting projects | 有趣的项目
+## awesome
 - awesome  https://github.com/sindresorhus/awesome/
 - awesome-github（中文） https://github.com/AntBranch/awesome-github/
-- FoolGo  https://github.com/chncwang/FoolGo/
+
 
 ## Tools | 工具
 - 字体转换器  http://www.akuziti.com/
