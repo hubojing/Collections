@@ -138,3 +138,6 @@
 
 ## 事半功倍的小技巧 | some cute skills
 - 让win10愉快地运行vc++6.0 https://jingyan.baidu.com/article/851fbc37a99e043e1f15aba7.html
+
+## app
+- 地图闹钟 http://blog.csdn.net/hachi_lin/article/details/65446896
