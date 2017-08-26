@@ -1,6 +1,6 @@
-# 收藏家&&资源杂货铺（IT向）
+# IT资源合集
 ## 前言
-自用单。 
+自用单，放在这里的都是我体验过认为值得mark的。 
 欢迎提issue健全！
 
 ## 使用最多
@@ -86,6 +86,10 @@
 # C++
 - Visual Studio入门 https://docs.microsoft.com/zh-CN/visualstudio/ide/get-started-with-visual-studio
 - MSDN https://msdn.microsoft.com/zh-cn/library/60k1461a(v=vs.120).aspx
+
+# 正则表达式
+- MSDN https://msdn.microsoft.com/zh-cn/library/bb982727.aspx/
+- 正则表达式30分钟入门教程 https://deerchao.net/tutorials/regex/regex.htm/
 
 # OpenGL
 - OpenGL https://www.opengl.org/
