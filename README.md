@@ -146,3 +146,14 @@
 
 ## app
 - 地图闹钟 http://blog.csdn.net/hachi_lin/article/details/65446896
+
+## 还未全部尝试先mark
+- 简道云 https://www.jiandaoyun.com/
+- 互联网数据中心 http://www.199it.com/
+- 图标库网站 http://www.iconfont.cn/
+- Screen to Gif http://www.screentogif.com/
+- Everything http://www.voidtools.com/ （这个用的人还是挺多的）
+- Rufus U盘启动盘制作软件 http://rufus.akeo.ie/?locale=zh_CN/
+- UZER.ME https://uzer.me/download.html/
+-Listen 1 https://github.com/listen1/listen1_chrome_extension/ (插件...要是除了网页也能用就超级酷)
+- 图标云 http://bgpatterns.com/
