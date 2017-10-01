@@ -57,8 +57,9 @@
 - 云汉电子社区  http://bbs.ickey.cn/forum/
 
 ## E-Books | 电子书
-- 图灵社区  http://www.ituring.com.cn/book/ebook?sort=free
-- 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8
+- 计算机书籍控  http://bestcbooks.com/
+- 图灵社区  http://www.ituring.com.cn/book/ebook?sort=free/
+- 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8/
 
 ## 前端
 - 学习CSS布局   http://zh.learnlayout.com/
