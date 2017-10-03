@@ -64,7 +64,8 @@
 ## 前端
 - 学习CSS布局   http://zh.learnlayout.com/
 - JavaScript|MDN  https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
-- W3Cschool  http://www.w3school.com.cn/
+- W3Cschool  http://www.w3school.com.cn/
+- 浏览器内部工作原理 http://kb.cnblogs.com/page/129756/
 
 ## git
 - 猴子都能懂的GIT入门   http://backlogtool.com/git-guide/cn/
