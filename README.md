@@ -66,6 +66,7 @@
 - JavaScript|MDN  https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 - W3Cschool  http://www.w3school.com.cn/
 - 浏览器内部工作原理 http://kb.cnblogs.com/page/129756/
+- 主流JS框架中DOMReady事件的实现  http://www.cnblogs.com/JulyZhang/archive/2011/02/12/1952484.html
 
 ## git
 - 猴子都能懂的GIT入门   http://backlogtool.com/git-guide/cn/
@@ -157,5 +158,5 @@
 - Everything http://www.voidtools.com/ （这个用的人还是挺多的）
 - Rufus U盘启动盘制作软件 http://rufus.akeo.ie/?locale=zh_CN/
 - UZER.ME https://uzer.me/download.html/
--Listen 1 https://github.com/listen1/listen1_chrome_extension/ (插件...要是除了网页也能用就超级酷)
+- Listen 1 https://github.com/listen1/listen1_chrome_extension/ (插件...要是除了网页也能用就超级酷)
 - 图标云 http://bgpatterns.com/
