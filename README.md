@@ -66,7 +66,8 @@
 - JavaScript|MDN  https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 - W3Cschool  http://www.w3school.com.cn/
 - 浏览器内部工作原理 http://kb.cnblogs.com/page/129756/
-- 主流JS框架中DOMReady事件的实现  http://www.cnblogs.com/JulyZhang/archive/2011/02/12/1952484.html
+- 主流JS框架中DOMReady事件的实现  http://www.cnblogs.com/JulyZhang/archive/2011/02/12/1952484.html
+- 元素节点类型的判断 https://stackoverflow.com/questions/384286/javascript-isdom-how-do-you-check-if-a-javascript-object-is-a-dom-object/27112297#27112297
 
 ## git
 - 猴子都能懂的GIT入门   http://backlogtool.com/git-guide/cn/
