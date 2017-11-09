@@ -1,7 +1,6 @@
 # IT资源合集
 ## 前言
-自用单，放在这里的都是我体验过认为值得mark的。 
-欢迎提issue健全！
+自用单。
 
 ## 使用最多
 - 知乎  https://www.zhihu.com/
@@ -47,6 +46,7 @@
 - CNode https://cnodejs.org/
 - 掘金  http://gold.xitu.io/
 - Dzone https://dzone.com/
+- 中国大学MOOC  http://www.icourse163.org/
 
 ## questions
 - Stack Overflow  https://stackoverflow.com/
