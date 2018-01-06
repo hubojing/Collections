@@ -1,7 +1,4 @@
 # IT资源合集
-## 前言
-自用单。
-
 ## 使用最多
 - 知乎  https://www.zhihu.com/
 - MSDN  https://msdn.microsoft.com/en-us/
@@ -118,7 +115,8 @@
 - 在线秒表  http://miaobiao.51240.com/
 - 蓝灯  https://github.com/getlantern/forum/
 - 赛风  http://s3.amazonaws.com/fddc-r090-rtqi/zh.html/
-- 在线工具  http://tool.oschina.net/
+- 在线工具  http://tool.oschina.net/
+- Standard C 语言标准函数库速查 http://program.upc.edu.cn/CHelp/
 
 ## English Translation | 英译
 - 伯乐在线  http://fanyi.jobbole.com/
