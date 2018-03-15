@@ -8,7 +8,7 @@
 - 实验楼 https://www.shiyanlou.com/
 - W3Cschool  http://www.w3school.com.cn/
 - 菜鸟教程  http://www.runoob.com/
-- 码云  https://gitee.com/
+
 
 ## Rank | 排行
 - Project showcases   https://github.com/explore/
@@ -46,6 +46,7 @@
 - 掘金  http://gold.xitu.io/
 - Dzone https://dzone.com/
 - 中国大学MOOC  http://www.icourse163.org/
+- 码云  https://gitee.com/
 
 ## questions
 - Stack Overflow  https://stackoverflow.com/
@@ -140,6 +141,7 @@
 - 北大poj http://poj.org/
 - hdoj http://acm.hdu.edu.cn/
 - LeetCode  https://leetcode.com/
+- PTA https://pintia.cn/
 
 ## Blogs | 大牛们
 - 孟岩  http://blog.csdn.net/myan/
