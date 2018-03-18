@@ -102,6 +102,9 @@
 # 爬虫
 - jsoup开发指南 http://www.open-open.com/jsoup/
 
+## Python爬虫
+- Requests库 http://docs.python-requests.org/zh_CN/latest/
+
 ## awesome
 - awesome  https://github.com/sindresorhus/awesome/
 - awesome-github（中文） https://github.com/AntBranch/awesome-github/
