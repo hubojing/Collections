@@ -165,3 +165,5 @@
 - UZER.ME https://uzer.me/download.html/
 - Listen 1 https://github.com/listen1/listen1_chrome_extension/ (插件...要是除了网页也能用就超级酷)
 
+## hexo高级进阶
+- Valine评论系统 https://panjunwen.com/diy-a-comment-system/
