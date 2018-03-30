@@ -147,7 +147,8 @@
 - PTA https://pintia.cn/
 
 ## Blogs | 大牛们
-- 孟岩  http://blog.csdn.net/myan/
+- 王垠 http://www.yinwang.org/
+- 孟岩  http://blog.csdn.net/myan/
 - 蒋晟 http://blog.csdn.net/jiangsheng/
 
 ## 事半功倍的小技巧 | some cute skills
