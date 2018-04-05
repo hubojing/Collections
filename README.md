@@ -137,6 +137,7 @@
 ## Install equipment | 装机系列
 - MSDN,我告诉你 http://msdn.itellyou.cn/
 - 中国科学技术大学开源软件镜像 http://mirrors.ustc.edu.cn/
+- 清华大学开源软件镜像站 https://mirrors.tuna.tsinghua.edu.cn/
 
 ## Practice | 刷题
 - 赛码网 http://www.acmcoder.com/
