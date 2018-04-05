@@ -168,3 +168,7 @@
 
 ## hexo高级进阶
 - Valine评论系统 https://panjunwen.com/diy-a-comment-system/
+
+
+## Ubuntu
+- Ubuntu中文  http://wiki.ubuntu.org.cn/
