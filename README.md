@@ -59,8 +59,11 @@
 - 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8/
 
 # 人工智能
-# tensorfolw
+## tensorfolw
 - TensorFlow中文社区  http://www.tensorfly.cn/
+
+## O
+- OpenCV中文文档  https://www.w3cschool.cn/opencv/opencv-2gnx28u3.html
 
 # 工具类
 ## Git
