@@ -62,7 +62,7 @@
 ## tensorfolw
 - TensorFlow中文社区  http://www.tensorfly.cn/
 
-## O
+## OpenCV
 - OpenCV中文文档  https://www.w3cschool.cn/opencv/opencv-2gnx28u3.html
 
 # 工具类
