@@ -18,6 +18,7 @@
 - MSDN  https://msdn.microsoft.com/en-us/
 - 实验楼 https://www.shiyanlou.com/
 - 慕课网 http://www.imooc.com/course/list/
+- w3cSchool https://www.w3cschool.cn/
 - codewars  http://www.codewars.com/
 - 廖雪峰的官方网站  http://www.liaoxuefeng.com/
 - 鸟哥的Linux私房菜   http://vbird.dic.ksu.edu.tw/
@@ -56,6 +57,10 @@
 - 计算机书籍控  http://bestcbooks.com/
 - 图灵社区  http://www.ituring.com.cn/book/ebook?sort=free/
 - 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8/
+
+# 人工智能
+# tensorfolw
+- TensorFlow中文社区  http://www.tensorfly.cn/
 
 # 工具类
 ## Git
