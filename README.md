@@ -63,7 +63,7 @@
 - TensorFlow中文社区  http://www.tensorfly.cn/
 
 ## OpenCV
-- OpenCV中文文档  https://www.w3cschool.cn/opencv/opencv-2gnx28u3.html
+- OpenCV中文文档  https://www.w3cschool.cn/opencv/
 
 # 工具类
 ## Git
