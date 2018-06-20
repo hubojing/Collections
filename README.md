@@ -95,6 +95,7 @@
 - oalib http://www.oalib.com/
 
 ## 刷题
+- virtual judge https://vjudge.net/
 - 牛客网 https://www.nowcoder.com/
 - 赛码网 http://www.acmcoder.com/
 - 北大poj http://poj.org/
