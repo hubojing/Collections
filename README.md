@@ -102,6 +102,7 @@
 - hdoj http://acm.hdu.edu.cn/
 - LeetCode  https://leetcode.com/
 - PTA https://pintia.cn/
+- 计蒜客 https://www.jisuanke.com/
 
 # 语言类
 ## C++
