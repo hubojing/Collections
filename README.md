@@ -62,6 +62,10 @@
 ## tensorfolw
 - TensorFlow中文社区  http://www.tensorfly.cn/
 
+# 计算机视觉
+- 开源项目OpenBR  http://openbiometrics.org/
+- EasyPR  https://gitee.com/easypr/EasyPR/
+
 ## OpenCV
 - OpenCV中文文档  https://www.w3cschool.cn/opencv/
 
