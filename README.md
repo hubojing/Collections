@@ -162,3 +162,6 @@
 ## random mark
 - 地图闹钟 http://blog.csdn.net/hachi_lin/article/details/65446896
 - 老D博客  https://laod.cn/
+
+## 微信开发
+- markdown排版利器 http://md.aclickall.com/
