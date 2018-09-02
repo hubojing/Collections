@@ -68,6 +68,7 @@
 
 ## OpenCV
 - OpenCV中文文档  https://www.w3cschool.cn/opencv/
+- OpenCV2.3.2中文教程 http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html/
 
 # 工具类
 ## Git
