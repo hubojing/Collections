@@ -1,9 +1,10 @@
 # 使用最多
 - 知乎  https://www.zhihu.com/
+- coursera  https://www.coursera.org/
 - 中国大学MOOC  http://www.icourse163.org/
+- 网易云课堂 https://study.163.com/
 - 慕课网 http://www.imooc.com/course/list/
 - CSDN  http://www.csdn.net/
-- MSDN  https://msdn.microsoft.com/en-us/
 - 实验楼 https://www.shiyanlou.com/
 - W3Cschool  http://www.w3school.com.cn/
 - 菜鸟教程  http://www.runoob.com/
@@ -14,8 +15,15 @@
 - hexo主题  https://github.com/hexojs/hexo/wiki/Themes/   https://hexo.io/themes/
 - github中国程序员排行 http://githubrank.com/
 
-# 教程类网站
+# 官方文档
+## Microsoft
 - MSDN  https://msdn.microsoft.com/en-us/
+
+## Python Web
+- Flask http://flask.pocoo.org/docs/1.0/  中文：https://dormousehole.readthedocs.io/en/latest/
+
+
+# 教程类网站
 - 实验楼 https://www.shiyanlou.com/
 - 慕课网 http://www.imooc.com/course/list/
 - w3cSchool https://www.w3cschool.cn/
