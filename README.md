@@ -15,15 +15,7 @@
 - hexo主题  https://github.com/hexojs/hexo/wiki/Themes/   https://hexo.io/themes/
 - github中国程序员排行 http://githubrank.com/
 
-# 官方文档
-## Microsoft
-- MSDN  https://msdn.microsoft.com/en-us/
-
-## Python Web
-- Flask http://flask.pocoo.org/docs/1.0/  中文：https://dormousehole.readthedocs.io/en/latest/
-
-
-# 教程类网站
+# 教程类
 - 实验楼 https://www.shiyanlou.com/
 - 慕课网 http://www.imooc.com/course/list/
 - w3cSchool https://www.w3cschool.cn/
@@ -36,6 +28,9 @@
 - Fenby http://www.fenby.com/
 - Codecademy  https://www.codecademy.com/
 - 微软培训 https://mva.microsoft.com/
+
+## 综合文档
+- MSDN  https://msdn.microsoft.com/en-us/
 
 # 综合网站
 - CSDN  http://www.csdn.net/
@@ -78,51 +73,65 @@
 - OpenCV中文文档  https://www.w3cschool.cn/opencv/
 - OpenCV2.3.2中文教程 http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html/
 
-# 工具类
+# 3D
+## OpenGL
+- OpenGL https://www.opengl.org/
+- opengl-tutorial http://www.opengl-tutorial.org/
+
+# Web开发
+## Python Web
+- Flask http://flask.pocoo.org/docs/1.0/  中文：https://dormousehole.readthedocs.io/en/latest/
+
+# 版本控制
 ## Git
 - 猴子都能懂的GIT入门   http://backlogtool.com/git-guide/cn/
 - git简明指南   http://rogerdudler.github.io/git-guide/index.zh.html/
 - Github漫游指南  http://github.phodal.com/
 
-## OpenGL
-- OpenGL https://www.opengl.org/
-- opengl-tutorial http://www.opengl-tutorial.org/
-
+# Linux
 ## Ubuntu
 - Ubuntu中文  http://wiki.ubuntu.org.cn/
 
-## 正则表达式
+# 正则表达式
 - MSDN https://msdn.microsoft.com/zh-cn/library/bb982727.aspx/
-- 正则表达式30分钟入门教程 https://deerchao.net/tutorials/regex/regex.htm/
+- 正则表达式30分钟入门教程 https://www.jb51.net/tools/zhengze.html
 
-## 镜像
+# 资源
 - MSDN,我告诉你 http://msdn.itellyou.cn/
 - 中国科学技术大学开源软件镜像 http://mirrors.ustc.edu.cn/
 - 清华大学开源软件镜像站 https://mirrors.tuna.tsinghua.edu.cn/
 
-## 论文
+# 论文
 - 学术搜索  http://scholar.chongbuluo.com/
 - CNKI翻译助手  http://dict.cnki.net/
 - 中国科技论文在线  http://www.paper.edu.cn/
 - 谷歌学术  http://dir.scmor.com/google/
 - oalib http://www.oalib.com/
 
-## 刷题
+# 刷题
+- LeetCode  https://leetcode.com/
 - virtual judge https://vjudge.net/
 - 牛客网 https://www.nowcoder.com/
 - 赛码网 http://www.acmcoder.com/
 - 北大poj http://poj.org/
 - hdoj http://acm.hdu.edu.cn/
-- LeetCode  https://leetcode.com/
 - PTA https://pintia.cn/
 - 计蒜客 https://www.jisuanke.com/
 
+# 计算机网络
+## 抓包工具
+- wireshark官方文档 https://www.wireshark.org/docs/
+
 # 语言类
+## C
+- Standard C 语言标准函数库速查 http://program.upc.edu.cn/CHelp/
+
 ## C++
 - Visual Studio入门 https://docs.microsoft.com/zh-CN/visualstudio/ide/get-started-with-visual-studio
 - MSDN https://msdn.microsoft.com/zh-cn/library/60k1461a(v=vs.120).aspx
 
-## Python爬虫
+## Python
+## 爬虫
 - Requests库 http://docs.python-requests.org/zh_CN/latest/
 
 ## Java for Android
@@ -134,8 +143,7 @@
 - JavaWorld http://www.javaworld.com/
 - eoe论坛 http://www.eoeandroid.com/forum.php
 
-# 计算机基础
-## 数据结构
+# 数据结构
 - VisuAlgo https://visualgo.net/
 
 # 前端
@@ -146,31 +154,39 @@
 - 主流JS框架中DOMReady事件的实现  http://www.cnblogs.com/JulyZhang/archive/2011/02/12/1952484.html
 - 元素节点类型的判断 https://stackoverflow.com/questions/384286/javascript-isdom-how-do-you-check-if-a-javascript-object-is-a-dom-object/27112297#27112297
 
+## hexo
+- Valine评论系统 https://panjunwen.com/diy-a-comment-system/
+- Browsersync http://www.browsersync.cn/
+
 # 科学..
 - 蓝灯 https://github.com/getlantern/forum/
 - 赛风 http://s3.amazonaws.com/fddc-r090-rtqi/zh.html/
-- 在线工具  http://tool.oschina.net/
-- Standard C 语言标准函数库速查 http://program.upc.edu.cn/CHelp/
+- XX-Net  https://github.com/XX-net/
 
 # IT英译
 - 伯乐在线  http://fanyi.jobbole.com/
 - 译言网 http://g.yeeyan.org/
   
-# 大牛们
+# 大牛
+- Bjarne Stroustrup（C++之父）  http://www.stroustrup.com/
+- Herb Sutter https://herbsutter.com/
+- Bartosz Milewski  https://bartoszmilewski.com/
+- Anthony Williams  https://www.justsoftwaresolutions.co.uk/blog/
+- Jeff Preshing https://preshing.com/
 - 王垠 http://www.yinwang.org/
-- 孟岩  http://blog.csdn.net/myan/
+- 陈硕  https://blog.csdn.net/solstice/
+- 陈皓  https://coolshell.cn/
+- 刘未鹏 http://mindhacks.cn/
+- 孟岩  http://blog.csdn.net/myan/
 - 蒋晟 http://blog.csdn.net/jiangsheng/
+...
 
-## 事半功倍的小技巧
+# 奇技淫巧
 - 让win10愉快地运行vc++6.0 https://jingyan.baidu.com/article/851fbc37a99e043e1f15aba7.html
 
-## hexo
-- Valine评论系统 https://panjunwen.com/diy-a-comment-system/
-- Browsersync http://www.browsersync.cn/
-
-## random mark
-- 地图闹钟 http://blog.csdn.net/hachi_lin/article/details/65446896
-- 老D博客  https://laod.cn/
-
-## 微信开发
+# 微信开发
 - markdown排版利器 http://md.aclickall.com/
+
+# 临时记录
+- 地图闹钟 http://blog.csdn.net/hachi_lin/article/details/65446896
+- 老D博客  https://laod.cn/
