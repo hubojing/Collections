@@ -113,10 +113,13 @@
 - virtual judge https://vjudge.net/
 - 牛客网 https://www.nowcoder.com/
 - 赛码网 http://www.acmcoder.com/
-- 北大poj http://poj.org/
-- hdoj http://acm.hdu.edu.cn/
+- POJ http://poj.org/
+- HDOJ http://acm.hdu.edu.cn/
+- ZOJ http://acm.zju.edu.cn/onlinejudge/
+- UVa https://uva.onlinejudge.org/
 - PTA https://pintia.cn/
-- 计蒜客 https://www.jisuanke.com/
+- ACdream http://acm.wust.edu.cn/
+- 计蒜客 https://nanti.jisuanke.com/
 
 # 计算机网络
 ## 抓包工具
