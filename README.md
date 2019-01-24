@@ -161,11 +161,6 @@
 - Valine评论系统 https://panjunwen.com/diy-a-comment-system/
 - Browsersync http://www.browsersync.cn/
 
-# 科学..
-- 蓝灯 https://github.com/getlantern/forum/
-- 赛风 http://s3.amazonaws.com/fddc-r090-rtqi/zh.html/
-- XX-Net  https://github.com/XX-net/
-
 # IT英译
 - 伯乐在线  http://fanyi.jobbole.com/
 - 译言网 http://g.yeeyan.org/
