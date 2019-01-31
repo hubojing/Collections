@@ -28,6 +28,7 @@
 - Fenby http://www.fenby.com/
 - Codecademy  https://www.codecademy.com/
 - 微软培训 https://mva.microsoft.com/
+- 腾讯云开发者实验室 https://cloud.tencent.com/developer/labs/gallery/
 
 ## 综合文档
 - MSDN  https://msdn.microsoft.com/en-us/
