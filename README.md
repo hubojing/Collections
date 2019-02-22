@@ -108,6 +108,7 @@
 - 中国科技论文在线  http://www.paper.edu.cn/
 - 谷歌学术  http://dir.scmor.com/google/
 - oalib http://www.oalib.com/
+- SCI-Hub科研论文全文下载可用网址 http://tool.yovisun.com/scihub/
 
 # 刷题
 - LeetCode  https://leetcode.com/
