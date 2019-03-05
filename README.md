@@ -133,6 +133,10 @@
 - Visual Studio入门 https://docs.microsoft.com/zh-CN/visualstudio/ide/get-started-with-visual-studio
 - MSDN https://msdn.microsoft.com/zh-cn/library/60k1461a(v=vs.120).aspx
 
+### Qt
+- 下载  http://download.qt.io/archive/qt/
+- Qt5教程 http://c.biancheng.net/qt/
+
 ## Python
 ## 爬虫
 - Requests库 http://docs.python-requests.org/zh_CN/latest/
