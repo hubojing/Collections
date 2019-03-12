@@ -99,6 +99,7 @@
 - MSDN,我告诉你 http://msdn.itellyou.cn/
 - 中国科学技术大学开源软件镜像 http://mirrors.ustc.edu.cn/
 - 清华大学开源软件镜像站 https://mirrors.tuna.tsinghua.edu.cn/
+- 阿里巴巴开源镜像站 https://opsx.alibaba.com/?lang=zh-CN/
 
 # 论文
 - 学术搜索  http://scholar.chongbuluo.com/
