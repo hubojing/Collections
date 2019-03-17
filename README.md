@@ -169,7 +169,11 @@
 # IT英译
 - 伯乐在线  http://fanyi.jobbole.com/
 - 译言网 http://g.yeeyan.org/
-  
+
+# 比赛
+- kaggle  https://www.kaggle.com/competitions
+- 天池  https://tianchi.aliyun.com/home/
+
 # 大牛
 - Bjarne Stroustrup（C++之父）  http://www.stroustrup.com/
 - Herb Sutter https://herbsutter.com/
