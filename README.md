@@ -50,6 +50,7 @@
 # 问答
 - Stack Overflow  https://stackoverflow.com/
 - segmentfault  https://segmentfault.com/
+- Piazza  https://piazza.com/
 
 # 通信
 - 通信人家园  http://bbs.c114.net/
