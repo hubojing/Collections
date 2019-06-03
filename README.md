@@ -109,6 +109,9 @@
 - 谷歌学术  http://dir.scmor.com/google/
 - oalib http://www.oalib.com/
 - SCI-Hub科研论文全文下载可用网址 http://tool.yovisun.com/scihub/
+- elsevier science数据库 https://www.sciencedirect.com/
+- Springer  https://link.springer.com/
+- Taylor & Francis  https://www.tandfonline.com/
 
 # 刷题
 - LeetCode  https://leetcode.com/
