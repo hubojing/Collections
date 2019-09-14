@@ -206,6 +206,7 @@ Go Web编程  https://astaxie.gitbooks.io/build-web-application-with-golang/zh/
 
 # GIS
 - 麻辣GIS https://malagis.com/
+- ArcGIS破解安装教程  https://blog.csdn.net/m0_37638031/article/details/78777896/
 
 # 临时记录
 - 地图闹钟 http://blog.csdn.net/hachi_lin/article/details/65446896
