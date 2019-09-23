@@ -27,6 +27,7 @@
 - Codecademy  https://www.codecademy.com/
 - 微软培训 https://mva.microsoft.com/
 - 腾讯云开发者实验室 https://cloud.tencent.com/developer/labs/gallery/
+- 百度技术学院  http://bit.baidu.com/
 
 ## 综合文档
 - MSDN  https://msdn.microsoft.com/en-us/
