@@ -113,6 +113,7 @@
 - elsevier science数据库 https://www.sciencedirect.com/
 - Springer  https://link.springer.com/
 - Taylor & Francis  https://www.tandfonline.com/
+- 中国计算机学会推荐国际学术会议和期刊目录 https://www.ccf.org.cn/xspj/gyml/
 
 # 刷题
 - LeetCode  https://leetcode.com/
