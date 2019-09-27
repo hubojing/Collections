@@ -63,6 +63,10 @@
 - 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8/
 
 # 人工智能
+## 数据挖掘
+### R语言
+- 数据分析 http://rstat.leanote.com/
+
 ## 机器学习
 - scikit-learn https://scikit-learn.org/
 
