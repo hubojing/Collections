@@ -7,6 +7,26 @@
 - CSDN  http://www.csdn.net/
 - 实验楼 https://www.shiyanlou.com/
 
+# 论文
+- 学术搜索  http://scholar.chongbuluo.com/
+- CNKI翻译助手  http://dict.cnki.net/
+- 中国科技论文在线  http://www.paper.edu.cn/
+- 谷歌学术  http://dir.scmor.com/google/
+- oalib http://www.oalib.com/
+- SCI-Hub科研论文全文下载可用网址 http://tool.yovisun.com/scihub/
+- elsevier science数据库 https://www.sciencedirect.com/
+- Springer  https://link.springer.com/
+- Taylor & Francis  https://www.tandfonline.com/
+- 中国计算机学会推荐国际学术会议和期刊目录 https://www.ccf.org.cn/xspj/gyml/
+- dblp https://dblp.uni-trier.de/
+- ACM https://dl.acm.org/
+- IEEE https://ieeexplore.ieee.org/
+- Springer  https://www.springer.com/
+- Web of Science http://www.webofknowledge.com/
+- 计算机学报 http://cjc.ict.ac.cn/
+- 软件学报  http://www.jos.org.cn/
+- 计算机研究与发展 http://crad.ict.ac.cn/
+
 # 排行
 - Project showcases   https://github.com/explore/
 - 开源静态网站生成器排行  http://www.staticgen.com/
@@ -109,18 +129,6 @@
 - 中国科学技术大学开源软件镜像 http://mirrors.ustc.edu.cn/
 - 清华大学开源软件镜像站 https://mirrors.tuna.tsinghua.edu.cn/
 - 阿里巴巴开源镜像站 https://opsx.alibaba.com/?lang=zh-CN/
-
-# 论文
-- 学术搜索  http://scholar.chongbuluo.com/
-- CNKI翻译助手  http://dict.cnki.net/
-- 中国科技论文在线  http://www.paper.edu.cn/
-- 谷歌学术  http://dir.scmor.com/google/
-- oalib http://www.oalib.com/
-- SCI-Hub科研论文全文下载可用网址 http://tool.yovisun.com/scihub/
-- elsevier science数据库 https://www.sciencedirect.com/
-- Springer  https://link.springer.com/
-- Taylor & Francis  https://www.tandfonline.com/
-- 中国计算机学会推荐国际学术会议和期刊目录 https://www.ccf.org.cn/xspj/gyml/
 
 # 刷题
 - LeetCode  https://leetcode.com/
