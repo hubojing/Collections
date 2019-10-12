@@ -52,6 +52,9 @@
 ## 综合文档
 - MSDN  https://msdn.microsoft.com/en-us/
 
+# 编码规范
+- google编码规范  https://zh-google-styleguide.readthedocs.io/
+
 # 综合网站
 - CSDN  http://www.csdn.net/
 - 博客园  http://www.cnblogs.com/
