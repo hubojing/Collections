@@ -27,6 +27,9 @@
 - 软件学报  http://www.jos.org.cn/
 - 计算机研究与发展 http://crad.ict.ac.cn/
 
+# 数据
+- UC Irvine Machine Learning Repository http://archive.ics.uci.edu/ml/index.php
+
 # 排行
 - Project showcases   https://github.com/explore/
 - 开源静态网站生成器排行  http://www.staticgen.com/
