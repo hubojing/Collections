@@ -1,3 +1,5 @@
+此列表为个人自用单。
+
 # 使用最多
 - 知乎  https://www.zhihu.com/
 - coursera  https://www.coursera.org/
@@ -27,8 +29,32 @@
 - 软件学报  http://www.jos.org.cn/
 - 计算机研究与发展 http://crad.ict.ac.cn/
 
+# 人工智能
+## 数据挖掘
+### R语言
+- 数据分析 http://rstat.leanote.com/
+
+## 机器学习
+- scikit-learn https://scikit-learn.org/
+- AI算法工程师手册 http://www.huaxiaozhuan.com/
+
+# tensorfolw
+- TensorFlow中文社区  http://www.tensorfly.cn/
+
+# 计算机视觉
+- 开源项目OpenBR  http://openbiometrics.org/
+- EasyPR  https://gitee.com/easypr/EasyPR/
+
+## OpenCV
+- OpenCV中文文档  https://www.w3cschool.cn/opencv/
+- OpenCV2.3.2中文教程 http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html/
+
 # 数据
 - UC Irvine Machine Learning Repository http://archive.ics.uci.edu/ml/index.php
+
+# 比赛
+- kaggle  https://www.kaggle.com/competitions
+- 天池  https://tianchi.aliyun.com/home/
 
 # 排行
 - Project showcases   https://github.com/explore/
@@ -87,25 +113,6 @@
 - 计算机书籍控  http://bestcbooks.com/
 - 图灵社区  http://www.ituring.com.cn/book/ebook?sort=free/
 - 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8/
-
-# 人工智能
-## 数据挖掘
-### R语言
-- 数据分析 http://rstat.leanote.com/
-
-## 机器学习
-- scikit-learn https://scikit-learn.org/
-
-# tensorfolw
-- TensorFlow中文社区  http://www.tensorfly.cn/
-
-# 计算机视觉
-- 开源项目OpenBR  http://openbiometrics.org/
-- EasyPR  https://gitee.com/easypr/EasyPR/
-
-## OpenCV
-- OpenCV中文文档  https://www.w3cschool.cn/opencv/
-- OpenCV2.3.2中文教程 http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html/
 
 # 3D
 ## OpenGL
@@ -202,10 +209,6 @@ Go Web编程  https://astaxie.gitbooks.io/build-web-application-with-golang/zh/
 # IT英译
 - 伯乐在线  http://fanyi.jobbole.com/
 - 译言网 http://g.yeeyan.org/
-
-# 比赛
-- kaggle  https://www.kaggle.com/competitions
-- 天池  https://tianchi.aliyun.com/home/
 
 # 大牛
 - Bjarne Stroustrup（C++之父）  http://www.stroustrup.com/
