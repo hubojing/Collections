@@ -89,12 +89,15 @@
 - 博客园  http://www.cnblogs.com/
 - 知乎  https://www.zhihu.com/
 - 网易公开课  http://open.163.com/
-- MATLAB中文论坛  http://www.ilovematlab.cn/
 - 51CTO http://www.51cto.com/
-- 开源中国社区  https://www.oschina.net/
 - 编程中国  http://www.bccn.net/
 - 掘金  http://gold.xitu.io/
 - 中国大学MOOC  http://www.icourse163.org/
+
+# 社区
+-科学软件开源社区 http://cstsai.cstcloud.cn/
+- 开源中国社区  https://www.oschina.net/
+- MATLAB中文论坛  http://www.ilovematlab.cn/
 
 ## awesome
 - awesome  https://github.com/sindresorhus/awesome/
