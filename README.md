@@ -97,7 +97,8 @@
 - 中国大学MOOC  http://www.icourse163.org/
 
 # 社区
--科学软件开源社区 http://cstsai.cstcloud.cn/
+- 阿里云开发者社区 https://developer.aliyun.com/
+- 科学软件开源社区 http://cstsai.cstcloud.cn/
 - 开源中国社区  https://www.oschina.net/
 - MATLAB中文论坛  http://www.ilovematlab.cn/
 
