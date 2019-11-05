@@ -51,6 +51,7 @@
 
 # 数据
 - UC Irvine Machine Learning Repository http://archive.ics.uci.edu/ml/index.php
+- OpenStreetMap https://www.openstreetmap.org/
 
 # 比赛
 - kaggle  https://www.kaggle.com/competitions
