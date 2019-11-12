@@ -28,6 +28,7 @@
 - 计算机学报 http://cjc.ict.ac.cn/
 - 软件学报  http://www.jos.org.cn/
 - 计算机研究与发展 http://crad.ict.ac.cn/
+- AMiner  https://www.aminer.cn/
 
 # 人工智能
 ## 数据挖掘
