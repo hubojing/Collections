@@ -10,6 +10,7 @@
 - 实验楼 https://www.shiyanlou.com/
 
 # 论文
+- LetPub最新SCI期刊查询及投稿分析系统  http://www.letpub.com.cn/index.php?page=journalapp
 - 学术搜索  http://scholar.chongbuluo.com/
 - CNKI翻译助手  http://dict.cnki.net/
 - 中国科技论文在线  http://www.paper.edu.cn/
