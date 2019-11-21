@@ -40,16 +40,19 @@
 - scikit-learn https://scikit-learn.org/
 - AI算法工程师手册 http://www.huaxiaozhuan.com/
 
-# tensorfolw
-- TensorFlow中文社区  http://www.tensorfly.cn/
+## 自然语言处理
+- NLP-progress https://nlpprogress.com/
 
-# 计算机视觉
+## 计算机视觉
 - 开源项目OpenBR  http://openbiometrics.org/
 - EasyPR  https://gitee.com/easypr/EasyPR/
 
-## OpenCV
+### OpenCV
 - OpenCV中文文档  https://www.w3cschool.cn/opencv/
 - OpenCV2.3.2中文教程 http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html/
+
+## tensorfolw
+- TensorFlow中文社区  http://www.tensorfly.cn/
 
 # 数据
 - UC Irvine Machine Learning Repository http://archive.ics.uci.edu/ml/index.php
