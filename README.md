@@ -39,6 +39,7 @@
 ## 机器学习
 - scikit-learn https://scikit-learn.org/
 - AI算法工程师手册 http://www.huaxiaozhuan.com/
+- 莫烦PYTHON  https://morvanzhou.github.io/
 
 ## 自然语言处理
 - NLP-progress https://nlpprogress.com/
