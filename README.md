@@ -59,6 +59,7 @@
 - UC Irvine Machine Learning Repository http://archive.ics.uci.edu/ml/index.php
 - OpenStreetMap https://www.openstreetmap.org/
 - Stanford Large Network Dataset Collection http://snap.stanford.edu/data/
+- grouplens https://grouplens.org/datasets/
 
 # 比赛
 - kaggle  https://www.kaggle.com/competitions
