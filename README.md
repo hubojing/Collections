@@ -60,6 +60,7 @@
 - OpenStreetMap https://www.openstreetmap.org/
 - Stanford Large Network Dataset Collection http://snap.stanford.edu/data/
 - grouplens https://grouplens.org/datasets/
+- 北京大学开放研究数据平台  https://opendata.pku.edu.cn/
 
 # 比赛
 - kaggle  https://www.kaggle.com/competitions
