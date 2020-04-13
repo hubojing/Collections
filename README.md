@@ -2,15 +2,14 @@
 
 # 使用最多
 - 知乎  https://www.zhihu.com/
-- coursera  https://www.coursera.org/
 - 中国大学MOOC  http://www.icourse163.org/
 - 网易云课堂 https://study.163.com/
 - 慕课网 http://www.imooc.com/course/list/
 - CSDN  http://www.csdn.net/
+- coursera  https://www.coursera.org/
 - 实验楼 https://www.shiyanlou.com/
 
 # 论文
-- LetPub最新SCI期刊查询及投稿分析系统  http://www.letpub.com.cn/index.php?page=journalapp
 - 学术搜索  http://scholar.chongbuluo.com/
 - CNKI翻译助手  http://dict.cnki.net/
 - 中国科技论文在线  http://www.paper.edu.cn/
@@ -40,6 +39,9 @@
 - scikit-learn https://scikit-learn.org/
 - AI算法工程师手册 http://www.huaxiaozhuan.com/
 - 莫烦PYTHON  https://morvanzhou.github.io/
+
+## 知识图谱
+- OpenKG.CN http://openkg.cn/
 
 ## 自然语言处理
 - NLP-progress https://nlpprogress.com/
