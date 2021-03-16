@@ -63,6 +63,7 @@
 - Stanford Large Network Dataset Collection http://snap.stanford.edu/data/
 - grouplens https://grouplens.org/datasets/
 - 北京大学开放研究数据平台  https://opendata.pku.edu.cn/
+- UCI数据集 https://archive.ics.uci.edu/ml/datasets.php/
 
 # 比赛
 - kaggle  https://www.kaggle.com/competitions
