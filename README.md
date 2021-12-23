@@ -1,14 +1,5 @@
 此列表为个人自用单。
 
-# 使用最多
-- 知乎  https://www.zhihu.com/
-- 中国大学MOOC  http://www.icourse163.org/
-- 网易云课堂 https://study.163.com/
-- 慕课网 http://www.imooc.com/course/list/
-- CSDN  http://www.csdn.net/
-- coursera  https://www.coursera.org/
-- 实验楼 https://www.shiyanlou.com/
-
 # 论文
 - 学术搜索  http://scholar.chongbuluo.com/
 - CNKI翻译助手  http://dict.cnki.net/
@@ -30,6 +21,11 @@
 - 计算机研究与发展 http://crad.ict.ac.cn/
 - AMiner  https://www.aminer.cn/
 
+# 免费GPU
+- Colab https://colab.research.google.com/notebooks/intro.ipynb/
+- AI Studio https://aistudio.baidu.com/
+- Kaggle https://www.kaggle.com/competitions 
+
 # 人工智能
 ## 数据挖掘
 ### R语言
@@ -45,6 +41,7 @@
 
 ## 自然语言处理
 - NLP-progress https://nlpprogress.com/
+- All For NLP https://github.com/hubojing/All-For-NLP/
 
 ## 计算机视觉
 - 开源项目OpenBR  http://openbiometrics.org/
