@@ -126,6 +126,7 @@
 - 云汉电子社区  http://bbs.ickey.cn/forum/
 
 # 电子书
+- Z-library http://www.book4you.org/
 - 计算机书籍控  http://bestcbooks.com/
 - 图灵社区  http://www.ituring.com.cn/book/ebook?sort=free/
 - 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8/
@@ -249,7 +250,3 @@ Go Web编程  https://astaxie.gitbooks.io/build-web-application-with-golang/zh/
 # GIS
 - 麻辣GIS https://malagis.com/
 - ArcGIS破解安装教程  https://blog.csdn.net/m0_37638031/article/details/78777896/
-
-# 临时记录
-- 地图闹钟 http://blog.csdn.net/hachi_lin/article/details/65446896
-- 老D博客  https://laod.cn/
