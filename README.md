@@ -190,6 +190,9 @@
 - Qt5教程 http://c.biancheng.net/qt/
 
 ## Python
+- From Python to Numpy https://www.labri.fr/perso/nrougier/from-python-to-numpy/
+- numpy-100 https://github.com/rougier/numpy-100
+
 ## 爬虫
 - Requests库 http://docs.python-requests.org/zh_CN/latest/
 
