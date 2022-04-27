@@ -253,3 +253,6 @@ Go Web编程  https://astaxie.gitbooks.io/build-web-application-with-golang/zh/
 # GIS
 - 麻辣GIS https://malagis.com/
 - ArcGIS破解安装教程  https://blog.csdn.net/m0_37638031/article/details/78777896/
+
+# 数学
+- Wolfram Alpha https://www.wolframalpha.com/
