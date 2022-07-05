@@ -1,16 +1,16 @@
 此列表为个人自用单。
 
 # 论文
-- 学术搜索  http://scholar.chongbuluo.com/
-- CNKI翻译助手  http://dict.cnki.net/
-- 中国科技论文在线  http://www.paper.edu.cn/
-- 谷歌学术  http://dir.scmor.com/google/
-- oalib http://www.oalib.com/
 - SCI-Hub科研论文全文下载可用网址 http://tool.yovisun.com/scihub/
+- 中国计算机学会推荐国际学术会议和期刊目录 https://www.ccf.org.cn/Academic_Evaluation/By_category/
+- AMiner  https://www.aminer.cn/
+- paperwithcode https://paperswithcode.com/
+- 学术搜索  http://scholar.chongbuluo.com/
+- 学术搜索 http://dir.scmor.com/
+- oalib http://www.oalib.com/
 - elsevier science数据库 https://www.sciencedirect.com/
 - Springer  https://link.springer.com/
 - Taylor & Francis  https://www.tandfonline.com/
-- 中国计算机学会推荐国际学术会议和期刊目录 https://www.ccf.org.cn/xspj/gyml/
 - dblp https://dblp.uni-trier.de/
 - ACM https://dl.acm.org/
 - IEEE https://ieeexplore.ieee.org/
@@ -19,7 +19,8 @@
 - 计算机学报 http://cjc.ict.ac.cn/
 - 软件学报  http://www.jos.org.cn/
 - 计算机研究与发展 http://crad.ict.ac.cn/
-- AMiner  https://www.aminer.cn/
+- CNKI翻译助手  http://dict.cnki.net/
+- 中国科技论文在线  http://www.paper.edu.cn/
 
 # 免费GPU
 - Colab https://colab.research.google.com/notebooks/intro.ipynb/
@@ -34,7 +35,7 @@
 ## 机器学习
 - scikit-learn https://scikit-learn.org/
 - AI算法工程师手册 http://www.huaxiaozhuan.com/
-- 莫烦PYTHON  https://morvanzhou.github.io/
+- 莫烦PYTHON  https://mofanpy.com/
 
 ## 知识图谱
 - OpenKG.CN http://openkg.cn/
@@ -45,14 +46,10 @@
 
 ## 计算机视觉
 - 开源项目OpenBR  http://openbiometrics.org/
-- EasyPR  https://gitee.com/easypr/EasyPR/
 
 ### OpenCV
 - OpenCV中文文档  https://www.w3cschool.cn/opencv/
-- OpenCV2.3.2中文教程 http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html/
-
-## tensorfolw
-- TensorFlow中文社区  http://www.tensorfly.cn/
+- OpenCV官网 http://www.opencv.org.cn/
 
 # 数据
 - UC Irvine Machine Learning Repository http://archive.ics.uci.edu/ml/index.php
@@ -74,15 +71,16 @@
 - TIOBE排行榜  https://www.tiobe.com/tiobe-index/
 
 # 教程类
-- 实验楼 https://www.shiyanlou.com/
+- 大学慕课 https://www.icourse163.org/
+- 网易公开课  http://open.163.com/
 - 慕课网 http://www.imooc.com/course/list/
 - w3cSchool https://www.w3cschool.cn/
+- 实验楼 https://www.shiyanlou.com/
 - codewars  http://www.codewars.com/
 - 廖雪峰的官方网站  http://www.liaoxuefeng.com/
-- 鸟哥的Linux私房菜   http://vbird.dic.ksu.edu.tw/
+- 鸟哥的Linux私房菜   https://linux.vbird.org/
 - 菜鸟教程  http://www.runoob.com/
 - 极客学院Wiki  http://wiki.jikexueyuan.com/
-- CSDN知识库 http://lib.csdn.net/
 - Fenby http://www.fenby.com/
 - Codecademy  https://www.codecademy.com/
 - 微软培训 https://mva.microsoft.com/
@@ -96,39 +94,34 @@
 # 编码规范
 - google编码规范  https://zh-google-styleguide.readthedocs.io/
 
-# 综合网站
+# 社区
 - CSDN  http://www.csdn.net/
 - 博客园  http://www.cnblogs.com/
-- 知乎  https://www.zhihu.com/
-- 网易公开课  http://open.163.com/
 - 51CTO http://www.51cto.com/
 - 编程中国  http://www.bccn.net/
 - 掘金  http://gold.xitu.io/
-- 中国大学MOOC  http://www.icourse163.org/
-
-# 社区
 - 阿里云开发者社区 https://developer.aliyun.com/
 - 科学软件开源社区 http://cstsai.cstcloud.cn/
 - 开源中国社区  https://www.oschina.net/
 - MATLAB中文论坛  http://www.ilovematlab.cn/
 
-## awesome
-- awesome  https://github.com/sindresorhus/awesome/
-- awesome-github（中文） https://github.com/AntBranch/awesome-github/
-
 # 问答
+- 知乎  https://www.zhihu.com/
 - Stack Overflow  https://stackoverflow.com/
 - segmentfault  https://segmentfault.com/
 - Piazza  https://piazza.com/
 
+## awesome
+- awesome  https://github.com/sindresorhus/awesome/
+- awesome-github（中文） https://github.com/AntBranch/awesome-github/
+
+
+
 # 通信
-- 通信人家园  http://bbs.c114.net/
-- 云汉电子社区  http://bbs.ickey.cn/forum/
+- 通信人家园  https://www.txrjy.com/
 
 # 电子书
-- Z-library http://www.book4you.org/
-- 计算机书籍控  http://bestcbooks.com/
-- 图灵社区  http://www.ituring.com.cn/book/ebook?sort=free/
+- Z-library https://zh.usa1lib.org/
 - 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8/
 
 # 3D
@@ -143,7 +136,7 @@
 # 版本控制
 ## Git
 - 猴子都能懂的GIT入门   http://backlogtool.com/git-guide/cn/
-- git简明指南   http://rogerdudler.github.io/git-guide/index.zh.html/
+- git简明指南   http://rogerdudler.github.io/git-guide/
 - Github漫游指南  http://github.phodal.com/
 
 # Linux
@@ -161,16 +154,13 @@
 - 阿里巴巴开源镜像站 https://opsx.alibaba.com/?lang=zh-CN/
 
 # 刷题
-- LeetCode  https://leetcode.com/
+- LeetCode  https://leetcode.com/  中文版：https://leetcode.cn/
 - virtual judge https://vjudge.net/
 - 牛客网 https://www.nowcoder.com/
 - 赛码网 http://www.acmcoder.com/
 - POJ http://poj.org/
 - HDOJ http://acm.hdu.edu.cn/
-- ZOJ http://acm.zju.edu.cn/onlinejudge/
-- UVa https://uva.onlinejudge.org/
 - PTA https://pintia.cn/
-- ACdream http://acm.wust.edu.cn/
 - 计蒜客 https://nanti.jisuanke.com/
 
 # 计算机网络
@@ -178,9 +168,6 @@
 - wireshark官方文档 https://www.wireshark.org/docs/
 
 # 语言类
-## C
-- Standard C 语言标准函数库速查 http://program.upc.edu.cn/CHelp/
-
 ## C++
 - Visual Studio入门 https://docs.microsoft.com/zh-CN/visualstudio/ide/get-started-with-visual-studio
 - MSDN https://msdn.microsoft.com/zh-cn/library/60k1461a(v=vs.120).aspx
@@ -193,9 +180,6 @@
 - From Python to Numpy https://www.labri.fr/perso/nrougier/from-python-to-numpy/
 - numpy-100 https://github.com/rougier/numpy-100
 
-## 爬虫
-- Requests库 http://docs.python-requests.org/zh_CN/latest/
-
 ## Java
 - How2J http://how2j.cn/
 
@@ -203,10 +187,6 @@
 - Java官方文档  http://docs.oracle.com/javase/8/docs/
 - Java API文档  http://www.oracle.com/technetwork/java/javase/overview/index.html
 - （API在线查询  http://docs.oracle.com/javase/8/docs/api/ ）
-- Android类和接口官方文档 https://developer.android.com/reference/packages.html
-- Android官方培训课程中文版(v0.9.7) http://hukai.me/android-training-course-in-chinese/index.html
-- JavaWorld http://www.javaworld.com/
-- eoe论坛 http://www.eoeandroid.com/forum.php
 
 ## Go
 Go Web编程  https://astaxie.gitbooks.io/build-web-application-with-golang/zh/
@@ -222,26 +202,14 @@ Go Web编程  https://astaxie.gitbooks.io/build-web-application-with-golang/zh/
 - 主流JS框架中DOMReady事件的实现  http://www.cnblogs.com/JulyZhang/archive/2011/02/12/1952484.html
 - 元素节点类型的判断 https://stackoverflow.com/questions/384286/javascript-isdom-how-do-you-check-if-a-javascript-object-is-a-dom-object/27112297#27112297
 
-## hexo
-- Valine评论系统 https://panjunwen.com/diy-a-comment-system/
-- Browsersync http://www.browsersync.cn/
-
-# IT英译
-- 伯乐在线  http://fanyi.jobbole.com/
-- 译言网 http://g.yeeyan.org/
-
-# 大牛
+# mark
 - Bjarne Stroustrup（C++之父）  http://www.stroustrup.com/
 - Herb Sutter https://herbsutter.com/
 - Bartosz Milewski  https://bartoszmilewski.com/
 - Anthony Williams  https://www.justsoftwaresolutions.co.uk/blog/
 - Jeff Preshing https://preshing.com/
-- 王垠 http://www.yinwang.org/
-- 陈硕  https://blog.csdn.net/solstice/
 - 陈皓  https://coolshell.cn/
-- 刘未鹏 http://mindhacks.cn/
-- 孟岩  http://blog.csdn.net/myan/
-- 蒋晟 http://blog.csdn.net/jiangsheng/
+- 孟岩  http://blog.csdn.net/myan/ 
 ...
 
 # 奇技淫巧
@@ -252,7 +220,6 @@ Go Web编程  https://astaxie.gitbooks.io/build-web-application-with-golang/zh/
 
 # GIS
 - 麻辣GIS https://malagis.com/
-- ArcGIS破解安装教程  https://blog.csdn.net/m0_37638031/article/details/78777896/
 
 # 数学
 - Wolfram Alpha https://www.wolframalpha.com/
