@@ -28,6 +28,13 @@
 - Kaggle https://www.kaggle.com/competitions 
 
 # 人工智能
+## 自然语言处理
+- ACL https://aclanthology.org/
+- NLP-progress https://nlpprogress.com/
+- All For NLP https://github.com/hubojing/All-For-NLP/
+### 知识图谱
+- OpenKG.CN http://openkg.cn/
+
 ## 数据挖掘
 ### R语言
 - 数据分析 http://rstat.leanote.com/
@@ -37,12 +44,8 @@
 - AI算法工程师手册 http://www.huaxiaozhuan.com/
 - 莫烦PYTHON  https://mofanpy.com/
 
-## 知识图谱
-- OpenKG.CN http://openkg.cn/
 
-## 自然语言处理
-- NLP-progress https://nlpprogress.com/
-- All For NLP https://github.com/hubojing/All-For-NLP/
+
 
 ## 计算机视觉
 - 开源项目OpenBR  http://openbiometrics.org/
