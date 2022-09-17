@@ -32,6 +32,8 @@
 - ACL https://aclanthology.org/
 - NLP-progress https://nlpprogress.com/
 - All For NLP https://github.com/hubojing/All-For-NLP/
+- Hugging Face https://huggingface.co/
+
 ### 知识图谱
 - OpenKG.CN http://openkg.cn/
 
