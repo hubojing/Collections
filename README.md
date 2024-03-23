@@ -46,9 +46,6 @@
 - AI算法工程师手册 http://www.huaxiaozhuan.com/
 - 莫烦PYTHON  https://mofanpy.com/
 
-
-
-
 ## 计算机视觉
 - 开源项目OpenBR  http://openbiometrics.org/
 
@@ -119,8 +116,6 @@
 ## awesome
 - awesome  https://github.com/sindresorhus/awesome/
 - awesome-github（中文） https://github.com/AntBranch/awesome-github/
-
-
 
 # 通信
 - 通信人家园  https://www.txrjy.com/
@@ -234,3 +229,7 @@ Go Web编程  https://astaxie.gitbooks.io/build-web-application-with-golang/zh/
 
 # 博客
 - 科学空间 https://spaces.ac.cn/
+
+# 设计
+- Ant Design https://ant-design.antgroup.com/docs/spec/colors-cn
+- RGB颜色查询对照表 https://www.qianbo.com.cn/Tool/Rgba/
