@@ -126,6 +126,8 @@
 # 电子书
 - Z-library https://zh.usa1lib.org/
 - 免费的计算机编程类中文书籍 https://github.com/justjavac/free-programming-books-zh_CN#web%E6%9C%8D%E5%8A%A1%E5%99%A8/
+- Understanding Deep Learning https://udlbook.github.io/udlbook/
+- LLMBook https://llmbook-zh.github.io/
 
 # 3D
 ## OpenGL
