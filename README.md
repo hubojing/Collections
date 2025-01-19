@@ -1,7 +1,7 @@
 此列表为个人自用单。
 
-# 工具
-- excalidraw https://excalidraw.com/
+# 算法研究
+- alphaxiv  https://www.alphaxiv.org/
 
 # 论文
 - SCI-Hub科研论文全文下载可用网址 http://tool.yovisun.com/scihub/
@@ -24,6 +24,9 @@
 - 计算机研究与发展 http://crad.ict.ac.cn/
 - CNKI翻译助手  http://dict.cnki.net/
 - 中国科技论文在线  http://www.paper.edu.cn/
+
+# 工具
+- excalidraw https://excalidraw.com/
 
 # 免费GPU
 - Colab https://colab.research.google.com/notebooks/intro.ipynb/
