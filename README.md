@@ -26,6 +26,7 @@
 - 中国科技论文在线  http://www.paper.edu.cn/
 
 # 工具
+- immersive-translate https://github.com/immersive-translate/immersive-translate
 - excalidraw https://excalidraw.com/
 
 # 系统优化
