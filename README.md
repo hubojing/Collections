@@ -28,6 +28,9 @@
 # 工具
 - excalidraw https://excalidraw.com/
 
+# 系统优化
+- Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases/
+
 # 免费GPU
 - Colab https://colab.research.google.com/notebooks/intro.ipynb/
 - AI Studio https://aistudio.baidu.com/
