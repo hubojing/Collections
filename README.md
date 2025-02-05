@@ -29,6 +29,9 @@
 - immersive-translate https://github.com/immersive-translate/immersive-translate
 - excalidraw https://excalidraw.com/
 
+# OCR
+- OCRmyPDF  https://github.com/ocrmypdf/OCRmyPDF
+
 # 系统优化
 - Dism++ https://github.com/Chuyu-Team/Dism-Multi-language/releases/
 
