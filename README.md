@@ -3,6 +3,9 @@
 # 算法研究
 - alphaxiv  https://www.alphaxiv.org/
 
+# 推理加速
+- https://fazzie-key.cool/2023/02/21/MLsys/
+
 # 论文
 - SCI-Hub科研论文全文下载可用网址 http://tool.yovisun.com/scihub/
 - 中国计算机学会推荐国际学术会议和期刊目录 https://www.ccf.org.cn/Academic_Evaluation/By_category/
