@@ -28,7 +28,8 @@
 - CNKI翻译助手  http://dict.cnki.net/
 - 中国科技论文在线  http://www.paper.edu.cn/
 
-# 工具
+# 软件
+- VLC media player https://www.videolan.org/
 - immersive-translate https://github.com/immersive-translate/immersive-translate
 - excalidraw https://excalidraw.com/
 
