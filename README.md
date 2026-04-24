@@ -1,5 +1,8 @@
 此列表为个人自用单。
 
+# AI智能体
+- moltbook https://moltbook.com/
+
 # 算法研究
 - alphaxiv  https://www.alphaxiv.org/
 
